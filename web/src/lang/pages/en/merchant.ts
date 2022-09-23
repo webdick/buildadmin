@@ -1,0 +1,17 @@
+export default {
+    "id": "id",
+    "name": "name",
+    "image": "image",
+    "url": "url",
+    "key": "key",
+    "api_url": "api_url",
+    "score": "score",
+    "charges": "charges",
+    "status": "status",
+    "status 1": "status 1",
+    "status 2": "status 2",
+    "status 3": "status 3",
+    "createtime": "createtime",
+    "weigh": "weigh",
+    "quick Search Fields": "id",
+}

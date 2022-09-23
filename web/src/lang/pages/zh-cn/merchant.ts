@@ -1,0 +1,17 @@
+export default {
+    "id": "商户ID",
+    "name": "商户名称",
+    "image": "商户图标",
+    "url": "平台地址",
+    "key": "商户密钥",
+    "api_url": "接口地址",
+    "score": "商户余额",
+    "charges": "服务费",
+    "status": "商户状态",
+    "status 1": "正常",
+    "status 2": "禁用",
+    "status 3": "待审核",
+    "createtime": "创建时间",
+    "weigh": "权重",
+    "quick Search Fields": "商户ID",
+}

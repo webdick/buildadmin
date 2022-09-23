@@ -95,7 +95,6 @@ const baTable = new baTableClass(
 
 baTable.mount()
 baTable.getIndex()
-
 provide('baTable', baTable)
 
 const getUserInfo = (userId: string) => {

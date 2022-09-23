@@ -32,7 +32,9 @@
         "ext-bcmath": "*",
         "ext-json": "*",
         "ext-iconv": "*",
-        "ext-gd": "*"
+        "ext-gd": "*",
+        "ext-curl": "*",
+        "qiniu/php-sdk": "^7.7"
     },
     "require-dev": {
         "symfony/var-dumper": "^4.2",

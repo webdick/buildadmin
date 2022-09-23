@@ -178,7 +178,9 @@ body,
     }
 }
 /* 会员中心-e */
-
+.ba-text {
+    color: var(--el-color-primary) !important;
+}
 /* 暗黑模式公共样式-s */
 .ba-icon-dark {
     color: var(--el-text-color-primary) !important;
